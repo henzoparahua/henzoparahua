@@ -6,9 +6,9 @@
   
   <h2>Educational Background</h2>
 
-  <ul>
-<li>
-<li>System Development at ETEC Irmã Agostina</li>
+  <ul placeitems="center">
+    <li>Udemy Courses</li>
+    <li>System Development at ETEC Irmã Agostina</li>
   
 </ul>
 
