@@ -12,3 +12,5 @@
     <li>Advanced English at Instituto Nacional Nossa Senhora de Fátima</li>
     <li>Basic-Intermediate English at Instituto Nacional Nossa Senhora de Fátima</li>
 </ul>
+  <h2 Most-Used Languages </h2>
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&hide_progress=true)](https://github.com/henzoparahua/github-readme-stats)
