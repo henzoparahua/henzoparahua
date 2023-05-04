@@ -13,4 +13,4 @@
     <li>Basic-Intermediate English at Instituto Nacional Nossa Senhora de Fátima</li>
 </ul>
   <h2 Most-Used Languages </h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs?username=henzoparahua&show_icons=true)](https://github.com/henzoparahua"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua)](https://github-readme-stats.vercel.app/api/top-langs?username=henzoparahua&theme=dracula&show_icons=true)](https://github.com/henzoparahua"></img>
