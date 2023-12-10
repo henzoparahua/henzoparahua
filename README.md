@@ -11,6 +11,7 @@
     <li>Udemy Courses</li>
     <li>Advanced English at Instituto Nacional Nossa Senhora de Fátima</li>
     <li>Basic-Intermediate English at Instituto Nacional Nossa Senhora de Fátima</li>
+    <li>Cisco Cybersecurity Essentials</li>
 </ul>
   <h2 Most-Used Languages </h2>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&theme=tokyonight"></img>
