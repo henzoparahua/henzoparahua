@@ -14,4 +14,4 @@
     <li>Cisco Cybersecurity Essentials</li>
 </ul>
   <h2 Most-Used Languages </h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&theme=tokyonight"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&hide=html,css,hack,python&theme=tokyonight"></img>
