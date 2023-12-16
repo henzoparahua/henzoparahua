@@ -1,17 +1,10 @@
+## std::cout << "Hello Everynyan" << std::endl;
+### System.out.println("About that guy");
+---
+> Howdy my friendo?! I'm a developer trying to improve my skills. Currently working on Java and C++
+> in order to become a graphic programmer. I do have knowledge on Web because of the way I was introduced
+> to the world of code, and so it is that I have skills on HTML/CSS/JS and PHP. 
+---
 
-<div align="center">
-  <h1>Yo, my name is Henzo!</h1> 
-  <h2>About me</h2>
-<p>I'm 17 years old, I live in São Paulo - Brazil. I do enjoy as front-end as back-end, so I want to become a full-stack web developer in the near-future. My main goal is to work and study abroad. Actually, now I'm learning a lot of diferent things in System Development area.</p>
-  
-<div align="left";>
-  <h2>Educational Background</h2>
-  <ul>
-    <li>System Development at ETEC Irmã Agostina</li>
-    <li>Udemy Courses</li>
-    <li>Advanced English at Instituto Nacional Nossa Senhora de Fátima</li>
-    <li>Basic-Intermediate English at Instituto Nacional Nossa Senhora de Fátima</li>
-    <li>Cisco Cybersecurity Essentials</li>
-</ul>
-  <h2 Most-Used Languages </h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&hide=html,css,hack,python&theme=tokyonight"></img>
+### Statistics and Stuff 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=henzoparahua&show_icons=true&theme=synthwave" style="height: 175px; margin:24px;"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&layout=compact&theme=synthwave&hide=html,css" style="height: 175px;">
