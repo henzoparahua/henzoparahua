@@ -3,7 +3,7 @@
 ---
 > Howdy my friendo?! I'm a developer trying to improve my skills. Currently working on Java and C++
 > in order to become a graphic programmer. I do have knowledge on Web because of the way I was introduced
-> to the world of code, and so it is that I have skills on HTML/CSS/JS and PHP. 
+> to the world of code, and so it is that I have skills on HTML/CSS/JS/PHP/MARIADB.
 ---
 
 ### Console.log("Statistics and Stuff"); 
