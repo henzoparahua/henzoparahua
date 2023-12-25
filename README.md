@@ -6,7 +6,7 @@
 > to the world of code, and so it is that I have skills on HTML/CSS/JS/PHP/MARIADB.
 ---
 > #### Knowledge:
-`CSS5` `HTML5` `JAVA` `C++` `C#` `PHP` `MARIADB` `MONGODB` `JAVASCRIPT` `PYTHON` `BLOCKBENCH` `CYBERSECURITY` `EXCEL` `FIGMA` `CANVA`
+`CSS3` `HTML5` `JAVA` `C++` `C#` `PHP` `MARIADB` `MONGODB` `JAVASCRIPT` `PYTHON` `BLOCKBENCH` `CYBERSECURITY` `EXCEL` `FIGMA` `CANVA`
 
 
 ### Console.log("Statistics and Stuff"); 
