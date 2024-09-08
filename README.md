@@ -8,15 +8,5 @@
 > #### Knowledge:
 `CSS3` `HTML5` `JAVA` `C++` `C#` `PHP` `MARIADB` `MONGODB` `JAVASCRIPT` `PYTHON` `BLOCKBENCH` `CYBERSECURITY` `EXCEL` `FIGMA` `CANVA`
 
-> #### Currently working on:
-```mermaid
-flowchart TB
-
-    nkr[Nkrahua Insane Machine] --- tkg[Ticket Grapper] --- Rails
-    nkr --- lcd3[Path to Direct3D] --- C++
-    nkr --- slb[Salbot - Discord RPG BOT] --- Node.js --- Express.js
-
-```
-
 ### Console.log("Statistics and Stuff"); 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=henzoparahua&show_icons=true&theme=synthwave" style="height: 175px; margin:24px;"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&layout=compact&theme=synthwave&hide=html,css" style="height: 175px;">
