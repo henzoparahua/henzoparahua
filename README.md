@@ -1,12 +1,39 @@
-## std::cout << "Hello Everynyan" << std::endl;
-### System.out.println("About that guy");
----
-> Howdy my friendo?! I'm a developer trying to improve my skills. Currently working on Java and C++
-> in order to become a graphic programmer. I do have knowledge on Web because of the way I was introduced
-> to the world of code, and so it is that I have skills on HTML/CSS/JS/PHP/MARIADB.
----
-> #### Knowledge:
-`CSS3` `HTML5` `JAVA` `C++` `C#` `PHP` `MARIADB` `MONGODB` `JAVASCRIPT` `PYTHON` `BLOCKBENCH` `CYBERSECURITY` `EXCEL` `FIGMA` `CANVA`
+# std::cout << "Hello Everynyan 👋" << std::endl;
+I fix broken web apps for a living while training to build virtual worlds with C++ and DirectX.
 
-### Console.log("Statistics and Stuff"); 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=henzoparahua&show_icons=true&theme=synthwave" style="height: 175px; margin:24px;"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&layout=compact&theme=synthwave&hide=html,css" style="height: 175px;">
+---
+
+### System.out.println("About This Guy");
+
+-   🚀 My main goal is to master **Graphics Programming**, and I'm currently diving deep into the worlds of **C++** and **DirectX**.
+-   💻 By day, I work with **PHP** and **.NET CLR**, providing useful information about hosting and fixing applications.
+-   🌐 I started my coding journey in web development, so I'm comfortable with the full stack, from the database to the user's screen.
+
+---
+
+### Console.log("My Tech Stack");
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,wordpress,nginx,mysql,postgres" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vim,vscode,neovim,powershell,bash" />
+</p>
+
+---
+
+### print("GitHub Stats");
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henzoparahua&show_icons=true&theme=synthwave" alt="henzoparahua's GitHub stats" style="height: 175px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&layout=compact&theme=synthwave&hide=html,css" alt="henzoparahua's top languages" style="height: 175px;">
+</p>
