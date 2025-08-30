@@ -28,12 +28,3 @@ I fix broken web apps for a living while training to build virtual worlds with C
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vim,vscode,neovim,powershell,bash" />
 </p>
-
----
-
-### print("GitHub Stats");
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henzoparahua&show_icons=true&theme=synthwave" alt="henzoparahua's GitHub stats" style="height: 175px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoparahua&layout=compact&theme=synthwave&hide=html,css" alt="henzoparahua's top languages" style="height: 175px;">
-</p>
