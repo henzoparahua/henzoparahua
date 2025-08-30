@@ -7,7 +7,6 @@ I fix broken web apps for a living while training to build virtual worlds with C
 
 -   🚀 I'm currently diving deep into the worlds of **C++** and **DirectX**.
 -   💻 By day, I work with **PHP** and **.NET CLR**, providing useful information about hosting and fixing applications.
--   🌐 I started my coding journey in web development, so I'm comfortable with the full stack, from the database to the user's screen.
 
 ---
 
