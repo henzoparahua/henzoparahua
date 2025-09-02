@@ -9,7 +9,7 @@ I fix broken web apps for a living while training to build virtual worlds with C
 ### Console.log("My Tech Stack");
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php" />
 </p>
 
 <p align="center">
